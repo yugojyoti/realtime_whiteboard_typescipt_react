@@ -89,7 +89,7 @@ const RoomPage = ({
         <div className="flex justify-center">
           <h1 className=" py-6 text-center font-bold text-4xl">
             {" "}
-            White Board Sharing App{" "}
+            RealTime WhiteBoard Apps{" "}
             <span className="font-semibold text-lg ">
               {" "}
               [
